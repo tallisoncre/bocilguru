@@ -1,2 +1,1 @@
-# bocilguru
-bocilguru
+# [bocilguru](https://bocilguru.pages.dev)
